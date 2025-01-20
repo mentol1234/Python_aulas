@@ -1,0 +1,12 @@
+print("olá! como posso ajudar sobre futebol")
+R = input("digite algo sobre futebol:")
+
+if R == "benfica":
+    Res = "o benfica é melhor do mundo"
+    
+elif R == "sporting":
+    Res = " o sporting é uma porcaria é podre"
+    
+
+
+print(Res)
