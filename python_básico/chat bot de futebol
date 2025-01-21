@@ -6,6 +6,21 @@ if R == "benfica":
     
 elif R == "sporting":
     Res = " o sporting é uma porcaria é podre"
+
+elif R == "porto":
+    Res = "está nem bem nem mal assim a assim"
+    
+elif R == "la liga":
+    Res = " la liga é a melhor liga do mundo"
+    
+elif R == "premier league":
+    Res = " a premier league é a 2º melhor do mundo"
+    
+elif R == "bundesliga":
+    Res = "é uma liga que tem o mesmo nome no campeonato femenino e masculino"
+    
+elif R == "Campeonato Brasileiro Série A":
+    Res = " uma farça os brasileiros dizem que é a melhor do mundo mas não é"
     
 
 
