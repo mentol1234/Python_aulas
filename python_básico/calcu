@@ -1,0 +1,14 @@
+N1 = float(input("digite o 1º num:"))
+op = input("digite o sinal:")
+N2 = float(input("digite o 2º num:"))
+op2 = input("digite o 2º sinal")
+N3 = float(input("digite o 3º num:"))
+
+if op == "+":
+    R = N1 + N2
+print(R)
+
+elif op2 == "+":
+    Res = R + N3
+    
+print(Res)
